@@ -1,0 +1,158 @@
+{
+    "easy_questions": [
+        {
+            "question": "Who was the first president of the United States?",
+            "answers": {
+                "1": "George Washington",
+                "2": "Thomas Jefferson",
+                "3": "Abraham Lincoln",
+                "4": "John Adams"
+            },
+            "correct_answer": "George Washington"
+        },
+        {
+            "question": "What is the capital of France?",
+            "answers": {
+                "1": "Paris",
+                "2": "London",
+                "3": "Berlin",
+                "4": "Madrid"
+            },
+            "correct_answer": "Paris"
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "answers": {
+                "1": "Atlantic Ocean",
+                "2": "Indian Ocean",
+                "3": "Pacific Ocean",
+                "4": "Arctic Ocean"
+            },
+            "correct_answer": "Pacific Ocean"
+        },
+        {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "answers": {
+                "1": "William Shakespeare",
+                "2": "Charles Dickens",
+                "3": "Jane Austen",
+                "4": "Mark Twain"
+            },
+            "correct_answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "answers": {
+                "1": "Venus",
+                "2": "Mars",
+                "3": "Mercury",
+                "4": "Pluto"
+            },
+            "correct_answer": "Mercury"
+        }
+    ],
+    "medium_questions": [
+        {
+            "question": "In which year did the Titanic sink?",
+            "answers": {
+                "1": "1912",
+                "2": "1915",
+                "3": "1920",
+                "4": "1905"
+            },
+            "correct_answer": "1912"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "answers": {
+                "1": "Gold",
+                "2": "Iron",
+                "3": "Diamond",
+                "4": "Platinum"
+            },
+            "correct_answer": "Diamond"
+        },
+        {
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "answers": {
+                "1": "China",
+                "2": "Brazil",
+                "3": "United Kingdom",
+                "4": "Russia"
+            },
+            "correct_answer": "Brazil"
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "answers": {
+                "1": "Isaac Newton",
+                "2": "Albert Einstein",
+                "3": "Galileo Galilei",
+                "4": "Nikola Tesla"
+            },
+            "correct_answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "answers": {
+                "1": "Au",
+                "2": "Ag",
+                "3": "Pb",
+                "4": "Fe"
+            },
+            "correct_answer": "Au"
+        }
+    ],
+    "hard_questions": [
+        {
+            "question": "Who was the British Prime Minister before Winston Churchill?",
+            "answers": {
+                "1": "Neville Chamberlain",
+                "2": "Clement Attlee",
+                "3": "Stanley Baldwin",
+                "4": "Ramsay MacDonald"
+            },
+            "correct_answer": "Neville Chamberlain"
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "answers": {
+                "1": "Amazon River",
+                "2": "Nile River",
+                "3": "Yangtze River",
+                "4": "Mississippi River"
+            },
+            "correct_answer": "Nile River"
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "answers": {
+                "1": "Jupiter",
+                "2": "Mars",
+                "3": "Saturn",
+                "4": "Venus"
+            },
+            "correct_answer": "Mars"
+        },
+        {
+            "question": "Who wrote the opera 'The Marriage of Figaro'?",
+            "answers": {
+                "1": "Ludwig van Beethoven",
+                "2": "Wolfgang Amadeus Mozart",
+                "3": "Johann Sebastian Bach",
+                "4": "Franz Schubert"
+            },
+            "correct_answer": "Wolfgang Amadeus Mozart"
+        },
+        {
+            "question": "What is the square root of 256?",
+            "answers": {
+                "1": "14",
+                "2": "16",
+                "3": "18",
+                "4": "20"
+            },
+            "correct_answer": "16"
+        }
+    ]
+}
